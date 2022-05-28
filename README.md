@@ -6,7 +6,7 @@
   * Python
   * Java
   * mySQL
-  * Javascript
+  * JavaScript
 #
 - The tools that I use to help me through the project making process are:
   - Microsoft Office
