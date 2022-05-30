@@ -7,6 +7,7 @@
   * Java
   * mySQL
   * JavaScript
+  * PHP
 #
 - The tools that I use to help me through the project making process are:
   - Microsoft Office
